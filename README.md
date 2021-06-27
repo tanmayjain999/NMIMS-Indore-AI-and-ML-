@@ -16,3 +16,5 @@ Fundamental concepts of AI/ML
 Machine learning algorithms
 Related terminologies (like deep learning, neural networks, etc.) </P> 
 
+![image](https://user-images.githubusercontent.com/84551574/123547037-c66ed180-d77c-11eb-9f6f-13f1d2c3b485.png)
+
